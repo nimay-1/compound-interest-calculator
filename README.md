@@ -32,7 +32,7 @@ This project is perfect for beginners learning Python or finance concepts, as it
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/compound-interest-calculator.git
+   git clone https://github.com/nimay-1/compound-interest-calculator.git
    ```
 2. Navigate to the project folder:
    ```bash
